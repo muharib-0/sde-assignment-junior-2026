@@ -5,7 +5,7 @@
 - **Assignment chosen:** A (Data)
 - **Time spent (honest estimate):** ~3h understanding the spec and the design decisions;
   building, testing and verification were done together with Claude Code (see `AI_USAGE.md`);
-  plus _TODO: your hours reviewing the code and preparing for the walkthrough_
+  plus ~2h reviewing the code and preparing for the walkthrough
 
 ## How to run
 ```bash
